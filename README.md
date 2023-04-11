@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CompilerDesign
 Text to Number System
 # Steps to run
@@ -27,3 +28,6 @@ project1.exe
    Operation: octal\
    Error: Invalid sentence
 
+=======
+# Compiler-Design
+>>>>>>> origin/main
